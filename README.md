@@ -1,6 +1,8 @@
 # Periodic Table API
 A simple NodeJS API for **Periodic Table Elements** returns in JSON format.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/boraoksuzoglu/periodic-table-api/badge)](https://www.codefactor.io/repository/github/boraoksuzoglu/periodic-table-api)
+
 ---
 
 ## JSON Data
