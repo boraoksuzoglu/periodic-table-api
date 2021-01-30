@@ -85,7 +85,7 @@ Your project is running on https://localhost:3000.
 | ?limit=`number` | Limit maximum elements in JSON data |
 | ?reverse=`true` | Reverse elements list |
 | ?sort_by=`feature` | Sort elements by specified element feature in periodic table |
-| ?filter[`feature`]= | Filter elements by specified element feature in periodic table  |
+| ?filter[`feature`]=`value` | Filter elements by specified element feature in periodic table  |
 
 ---
 ## Examples
