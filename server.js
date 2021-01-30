@@ -77,6 +77,6 @@ app.get('/spectral/:element', (req, res) => {
     }
 })
 
-app.listen(3000, async () => {
-    console.log("App listening at localhost:3000")
+app.listen(443, async () => {
+    console.log("App listening at localhost:443")
 })
