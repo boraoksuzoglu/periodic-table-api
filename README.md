@@ -78,7 +78,7 @@ Your project is running on https://localhost:3000.
 ## Params
 
 | Param |Description |
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- |
 | ?page=`number` | Page of elements in JSON data |
 | ?limit=`number` | Limit maximum elements in JSON data |
 | ?reverse=`true` | Reverse elements list |
